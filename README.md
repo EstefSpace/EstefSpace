@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @EstefSpace
 - 👀 Estoy interesado en trabajar como programador
-- 🌱 Estoy aprendiendo html, css y js (node.js tambien)
-- 💞️ Actualmente estoy trabajando con choqlito y laixdev en RabbitBot (bot discord)
+- 🌱 Estoy aprendiendo react y js
+- 💞️ Actualmente estoy trabajando en Onelty-TEch
 
 ¡Un gusto conocerte!
